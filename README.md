@@ -1,3 +1,3 @@
 # Flask-Blueprints
 
-##Getting started with Flask Blueprints.
+## Getting started with Flask Blueprints.
